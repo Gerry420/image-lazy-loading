@@ -1,0 +1,9 @@
+{
+  "name": "lazy-loading",
+  "version": "0.1.0",
+  "description": "npm package for image lazy loading",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
